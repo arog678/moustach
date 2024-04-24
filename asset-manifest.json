@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MR-Storefront-test/static/css/main.06c5e730.css",
+    "main.js": "/MR-Storefront-test/static/js/main.d887a318.js",
+    "static/js/714.70517c87.chunk.js": "/MR-Storefront-test/static/js/714.70517c87.chunk.js",
+    "index.html": "/MR-Storefront-test/index.html",
+    "main.06c5e730.css.map": "/MR-Storefront-test/static/css/main.06c5e730.css.map",
+    "main.d887a318.js.map": "/MR-Storefront-test/static/js/main.d887a318.js.map",
+    "714.70517c87.chunk.js.map": "/MR-Storefront-test/static/js/714.70517c87.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06c5e730.css",
+    "static/js/main.d887a318.js"
+  ]
+}
